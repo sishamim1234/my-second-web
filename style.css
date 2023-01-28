@@ -32,6 +32,7 @@
     text-align: center;
     align-items: center;
     color: white;
+   
 }
 
 .title-banner{
@@ -79,6 +80,10 @@
     background-blend-mode: overlay;
     color: white;
     padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
 }
 
 .service-btn{
@@ -117,4 +122,32 @@
 .more-details{
     padding: 20px;
    
+}
+.service{
+    padding: 10px;
+    background-color: white;
+    box-shadow: 4px 4px 8px gray;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    margin: 5px;
+}
+.service-logo{
+    width: 50%;
+    padding-bottom: 10px;
+
+}
+.service-up{
+    display: flex;
+}
+.service-down{
+    display: flex;
+}
+.service-container{
+    display: flex;
+}
+.service-left-container{
+    width: 50%;
 }
