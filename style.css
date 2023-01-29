@@ -151,3 +151,20 @@
 .service-left-container{
     width: 50%;
 }
+.call-icons{
+    width: 90px;
+}
+.phone-call{
+    display: flex;
+}
+.appoinment-section{
+    display: flex;
+    width: 75%;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    margin: auto;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+}
